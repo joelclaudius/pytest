@@ -1,0 +1,7 @@
+myenv
+.pytest_cache
+tests/.pytest_cache
+source/__pycache__
+tests/__pycache__
+
+Pipfile
